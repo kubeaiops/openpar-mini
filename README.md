@@ -1,0 +1,1 @@
+This is a "OPENPAR-MINI" project that is inspired by "OPENPAR" project (https://github.com/Event-AHU/OpenPAR). This project uses PromptPAR model & PETA dataset to recognize a pedestrian's attributes from an image.  
